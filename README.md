@@ -33,9 +33,7 @@ You will need:
 ## 2. Hardware <a id="step2"></a>
 
 - [FRDM-RW612 Development Board](https://www.nxp.com/FRDM-RW612)  
-  ⚠️ Requires a small rework because SPI is not exposed on the Arduino headers.
-
-![FRDM-RW612 rework](images/FRDM-RW612_rework.png)
+  ⚠️ Requires a small rework because SPI is not exposed on the Arduino headers. See rework instruction [here](./FRDM-RW612_rework_for_SPI.md).
 
 - [SR250-ARD Development Board](https://www.nxp.com/SR250UWBSHIELD)
 - Windows PC
